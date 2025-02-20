@@ -5,7 +5,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,there%20👋)
   
 </div>
-
 <div>
   <!--Body-->
   
@@ -15,8 +14,6 @@
   ##### ⚙️하드웨어,서버, 솔루션 엔지니어를 거쳐 개발자를 목표로 하고 있습니다.<br/>
   ##### 🖥️다양한 프로젝트에서 개발자들과 협업하며 얻은 지식을 활용하여, 개발자로서의 역량을 강화하고 있습니다.
   <br/>
-  <br/>
-  
 
 ## 🧱 기술 스택
 
@@ -31,7 +28,7 @@
 <img alt="batch Script" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" style="transform: scale(0.3);">
 <br/>
 
-### 프론트엔드 프레임워크 및 라이브러리
+### 프론트엔드
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="transform: scale(0.3);">
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="transform: scale(0.3);">
 <img alt="React Hook" src="https://img.shields.io/badge/React_Hook-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" style="transform: scale(0.3);">
@@ -43,7 +40,7 @@
 <img alt="Toast UI" src="https://img.shields.io/badge/Toast_UI-FFDD00?style=for-the-badge&logo=toast-ui&logoColor=black" style="transform: scale(0.3);">
 <br/>
 
-### 백엔드 프레임워크 및 라이브러리
+### 백엔드
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="transform: scale(0.3);">
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" style="transform: scale(0.3);">
 <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" style="transform: scale(0.3);">
@@ -79,7 +76,21 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="transform: scale(0.3);">
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" style="transform: scale(0.3);">
 <br/>
+
+
+### 도구 및 서비스
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=teams&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
 <br/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<br/>
+<br/>
+
 
 
 ## 🌱 현재 학습 중
@@ -89,7 +100,7 @@
 - TDD
 
 ## 📫 연락처
-- ✉️ khj0633@gmail.com
+- ✉️ khj0633[]()@gmail.com
 </div>
 <!--
 **RbCream/RbCream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
