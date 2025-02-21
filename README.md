@@ -79,15 +79,15 @@
 
 
 ### 도구 및 서비스
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=teams&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;" height="20">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
+<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=teams&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
+<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
 <br/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transform: scale(0.6); border-radius: 8px; margin: 5px;"height="20">
 <br/>
 <br/>
 
