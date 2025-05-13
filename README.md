@@ -51,7 +51,7 @@
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" style="transform: scale(0.3);" height="20">
 <img alt="Multer" src="https://img.shields.io/badge/Multer-FFCA28?style=for-the-badge&logo=node.js&logoColor=white" style="transform: scale(0.3);" height="20">
 <img alt="Multipart" src="https://img.shields.io/badge/Multipart-FFCA28?style=for-the-badge&logo=node.js&logoColor=white" style="transform: scale(0.3);" height="20">
-<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON web tokens" style="transform: scale(0.3);" height="20">
+<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" style="transform: scale(0.3);" height="20">
 <img alt="mysql2" src="https://img.shields.io/badge/mysql2-000000?style=for-the-badge&logo=zustand&logoColor=white" style="transform: scale(0.3);" height="20">
 <br/>
 
