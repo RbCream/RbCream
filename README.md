@@ -93,7 +93,7 @@
 
 
 ## 📫 연락처
-- ✉️ khj0633[]()@gmail.com
+- ✉️ 20013324@naver.com
 </div>
 <!--
 **RbCream/RbCream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
